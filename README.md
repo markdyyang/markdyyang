@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm the Global iOS Engineer, focused mainly on the iOS platform. Currently working on somethign i love.
+I'm the Global iOS Engineer, focused mainly on the iOS platform. Currently working on something i love.
 
 <!--
 **Ydeyong/Ydeyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
